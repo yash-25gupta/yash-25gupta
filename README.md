@@ -1,4 +1,4 @@
-👋 Hi, I’m @yash-25gupta
+👋 Hi, I’m Yash
 👀 I’m interested in quality analysis and software development.
 🌱 I’m currently learning advanced testing techniques and automation frameworks.
 💞️ I’m looking to collaborate on projects related to quality assurance and software testing.
